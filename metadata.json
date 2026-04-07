@@ -1,0 +1,10 @@
+{
+  "name": "SARA",
+  "description": "SARA (Smart AI Real-time Assistant) - A proactive, voice-enabled AI companion with a desi best friend energy.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation",
+    "notifications"
+  ]
+}
